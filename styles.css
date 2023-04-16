@@ -110,7 +110,7 @@ a:hover {
   }
 
   img .hero-image {
-    background-image: url(../images/image-hero-mobile.png);
+    background-image: url(../image-hero-mobile.png);
   }
   .hero-image {
     margin: 0;
